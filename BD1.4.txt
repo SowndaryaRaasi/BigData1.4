@@ -1,0 +1,22 @@
+                                                   Big Data
+                                               Assignment 1.4
+
+
+1.Characteristics of Big data in detail:
+        1.Volume:Huge amounts of data.
+        2.Velocity:Speed at which data changes.
+        3.Variety:Various types of data.
+        4.Veracity:Trust worthiness of data interms of accuracy.
+        5.Value:Final output produced after processing the data.
+
+2.Possible solutions to handle Big data:
+          1.Hadoop
+          2.Apache cassandra
+  
+
+3.Differences between scaling up and scaling out:       
+     Scaling up:Increasing the configuration (Hard disk,RAM etc.,) of a single machine to handle bigdata.
+                       Challenges:Costly,Less Reliability.
+     Scaling out: Increasing the resouces of multiple machines and then using them to handle large amounts of data.
+                         Challenges:Handling failures of machines.
+                
